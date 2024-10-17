@@ -4,12 +4,12 @@
 
 <h2 align="center">Description</h2>
 
-<p><strong>Electric_Vehicle_Population_Data</strong> es un proyecto que explora el crecimiento y la distribución de vehículos eléctricos en diferentes regiones. Se recopilaron datos de diversas fuentes para proporcionar una visión integral de la tendencia actual y futura del uso de vehículos eléctricos. La información se modeló en Power BI para crear visualizaciones interactivas que muestran la evolución de la población de vehículos eléctricos y sus impactos potenciales en términos de infraestructura y sostenibilidad.</p>
+<p><strong>Electric_Vehicle_Population_Data</strong> is a project that explores the growth and distribution of electric vehicles across different regions. Data was collected from various sources to provide a comprehensive view of current and future trends in electric vehicle usage. The information was modeled in Power BI to create interactive visualizations that showcase the evolution of the electric vehicle population and its potential impacts on infrastructure and sustainability.</p>
 
 <h2 align="center">Project Team</h2>
 
 <ul>
-    <li><strong>Nicolás Ramírez Perilla</strong>: Líder y único contribuyente. Con experiencia en proyectos previos en Colsubsidio, BBVA y CVN, con un enfoque en el análisis de datos y visualización.</li>
+    <li><strong>Nicolás Ramírez Perilla</strong>: Leader and sole contributor. Experienced in previous projects at Colsubsidio, BBVA, and CVN, focusing on data analysis and visualization.</li>
 </ul>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 <ul>
     <li><strong>Data Collection</strong><br>
-    <em>Description:</em> Se recolectó información de diferentes fuentes, como bases de datos gubernamentales y estudios de mercado, para construir un conjunto de datos robusto sobre la población de vehículos eléctricos.<br>
+    <em>Description:</em> Data was collected from different sources, such as government databases and market studies, to build a robust dataset on the electric vehicle population.<br>
     <em>Technologies Used:</em> Power BI, Excel<br>
-    <em>Impact:</em> Permite un análisis exhaustivo de las tendencias y patrones de crecimiento de vehículos eléctricos.</li>
+    <em>Impact:</em> Enables an in-depth analysis of trends and growth patterns in electric vehicle usage.</li>
 </ul>
