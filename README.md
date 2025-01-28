@@ -1,4 +1,4 @@
-<h1 align="center">Project: Electric_Vehicle_Population_Data</h1>
+<h1 align="center">Project: Electric Vehicle Population Data</h1>
 
 ---
 
